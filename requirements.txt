@@ -1,9 +1,6 @@
 flask 
 numpy 
 pandas
-warnings
-re
 sklearn
-CountVectorizer
-tag
-wordnet
+pattern
+nltk
