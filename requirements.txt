@@ -1,9 +1,9 @@
 flask 
 numpy 
 pandas
-string
 warnings
 re
+sklearn
 CountVectorizer
 tag
 wordnet
